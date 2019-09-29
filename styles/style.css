@@ -17,7 +17,7 @@ html {
 
 body {
     background-color: #e8eff0;
-    font-family: "Helvetica";
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .container {
@@ -71,7 +71,6 @@ header > .row {
     top: 0;
     right: 0;
     -webkit-transform: translate(40%, -40%);
-    -ms-transform: translate(40%, -40%);
     transform: translate(40%, -40%);
 }
 
@@ -91,7 +90,6 @@ header > .row {
     font-size: 1.4rem;
     font-weight: bold;
     background: -webkit-gradient(linear, left top, left bottom, from(#bbc9d4), to(#91a7b8));
-    background: -o-linear-gradient(#bbc9d4, #91a7b8);
     background: linear-gradient(#bbc9d4, #91a7b8);
     width: 12rem;
     height: 3.6rem;
