@@ -21,11 +21,7 @@ body {
 }
 
 .container {
-    max-width: 96rem;
-}
-
-header > .row {
-    margin-top: 4rem;
+    max-width: 98rem;
 }
 
 .logo {
@@ -124,7 +120,6 @@ header > .row {
 }
 
 .main-article__content {
-    padding-top: 4rem;
     color: #8c8b8c;
     font-size: 1.3rem;
     line-height: 2.2rem;
@@ -132,6 +127,7 @@ header > .row {
 
 .pattern {
     width: 27rem;
+    min-height: 36.7rem;
     background: url(../images/pattern.png) no-repeat;
 }
 
@@ -174,8 +170,6 @@ header > .row {
 }
 
 .button {
-    margin-top: 5rem;
-    margin-left: -1.5rem;
     width: 27.3rem;
     height: 7.7rem;
     line-height: 7.7rem;
