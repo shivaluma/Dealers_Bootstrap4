@@ -11,13 +11,13 @@
 
 html {
     font-size: 62.5%;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
 }
 
 body {
     background-color: #e8eff0;
     font-family: Helvetica, Arial, sans-serif;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .container {
@@ -137,7 +137,6 @@ body {
     font-weight: bold;
     color: #a7a7a7;
     font-size: 1.7rem;
-
     overflow: hidden;
     margin-bottom: 0.6rem;
 }
